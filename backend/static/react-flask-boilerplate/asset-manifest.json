@@ -1,0 +1,14 @@
+{
+  "main.css": "/static/react-flask-boilerplate/static/css/main.8caf539c.chunk.css",
+  "main.js": "/static/react-flask-boilerplate/static/js/main.b598281a.chunk.js",
+  "main.js.map": "/static/react-flask-boilerplate/static/js/main.b598281a.chunk.js.map",
+  "runtime~main.js": "/static/react-flask-boilerplate/static/js/runtime~main.e603a0fa.js",
+  "runtime~main.js.map": "/static/react-flask-boilerplate/static/js/runtime~main.e603a0fa.js.map",
+  "static/js/2.e0a9cc61.chunk.js": "/static/react-flask-boilerplate/static/js/2.e0a9cc61.chunk.js",
+  "static/js/2.e0a9cc61.chunk.js.map": "/static/react-flask-boilerplate/static/js/2.e0a9cc61.chunk.js.map",
+  "../../templates/index.html": "/static/react-flask-boilerplate/../../templates/index.html",
+  "precache-manifest.7458f5e68f0ea43aa2bb2029e77c302c.js": "/static/react-flask-boilerplate/precache-manifest.7458f5e68f0ea43aa2bb2029e77c302c.js",
+  "service-worker.js": "/static/react-flask-boilerplate/service-worker.js",
+  "static/css/main.8caf539c.chunk.css.map": "/static/react-flask-boilerplate/static/css/main.8caf539c.chunk.css.map",
+  "static/media/logo.svg": "/static/react-flask-boilerplate/static/media/logo.5d5d9eef.svg"
+}
